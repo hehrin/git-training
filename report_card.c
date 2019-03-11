@@ -1,4 +1,4 @@
-#include<stdio.h>
+a#include<stdio.h>
 
 int main()
 {
@@ -16,5 +16,6 @@ int main()
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
+	printf("Average : %d\n", sum/3);
 	return 0;
 }
